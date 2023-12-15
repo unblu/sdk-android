@@ -1,4 +1,4 @@
-# Unblu Android mobile SDK Package
+# Unblu Android mobile SDK
 
 The Unblu Android mobile SDK serves as a way to integrate the Unblu platform into native Android apps.
 
