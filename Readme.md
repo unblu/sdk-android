@@ -22,4 +22,4 @@ dependencies {
 # Documentation
 
 - [Main Unblu documentation site](https://www.unblu.com/en/docs/latest/)
-- [Unblu iOS mobile SDK documentation](https://www.unblu.com/en/docs/latest/reference/mobile-sdk-android/)
+- [Unblu Android mobile SDK documentation](https://www.unblu.com/en/docs/latest/reference/mobile-sdk-android/)
