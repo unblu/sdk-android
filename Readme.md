@@ -9,6 +9,13 @@ Please read the [license file](./LICENSE)
 
 # Installing
 
+Add The MavenCentral repo
+``` gradle
+ repositories {
+      mavenCentral()
+  }
+``` 
+
 To add the Unblu Android mobile SDK to your project, please add this to you app level build.grade:
 ``` gradle
 dependencies { 
