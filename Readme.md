@@ -2,10 +2,6 @@
 
 The Unblu Android mobile SDK serves as a way to integrate the Unblu platform into native Android apps.
 
-Unblu delivers the Unblu Android mobile SDK as several modules packages on GitHub: https://github.com/unblu/sdk-android
-
-# License
-Please read the [license file](./LICENSE)
 
 # Installing
 
