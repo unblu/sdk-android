@@ -26,3 +26,4 @@ dependencies {
 
 - [Main Unblu documentation site](https://www.unblu.com/en/docs/latest/)
 - [Unblu Android mobile SDK documentation](https://www.unblu.com/en/docs/latest/reference/mobile-sdk-android/)
+- [Unblu Android mobile SDK release notes](https://www.unblu.com/en/docs/latest/release-notes/mobile-sdk-android.html)
